@@ -1,4 +1,4 @@
-## Hi there 👋
+<img sec=“https://files.catbox.moe/d2si6o.png”/>
 
 <!--
 **starfoolj/starfoolj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
