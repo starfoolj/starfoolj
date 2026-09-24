@@ -1,6 +1,6 @@
 
 
-![](https://komarev.com/ghpvc/?username=starfoolj&color=purple&style=flat)
+![](https://komarev.com/ghpvc/?username=starfoolj&color=blueviolet&style=flat)
 
 <!--
 **starfoolj/starfoolj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
