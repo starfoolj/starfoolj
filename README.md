@@ -1,5 +1,7 @@
 <img src="https://files.catbox.moe/d2si6o.png"/>
 
+![](https://komarev.com/ghpvc/?username=starfoolj&color=purple&style=flat)
+
 <!--
 **starfoolj/starfoolj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
